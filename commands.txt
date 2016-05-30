@@ -1,0 +1,18 @@
+movies-simple.txt
+queries_out.txt
+getTopKMoviesAverage 2
+getTopKMoviesAverage 2
+totalMoviesAverageScore
+movieWithHighestAverage
+reviewCountPerMovieTopKMovies 4
+mostReviewedProduct
+moviesReviewWordsCount 100
+topYMoviesReviewTopXWordsCount 100 100
+topYMoviesReviewTopXWordsCount 100 10
+mostPopularMovieReviewedByKUsers 20
+mostPopularMovieReviewedByKUsers 15
+mostPopularMovieReviewedByKUsers 10
+mostPopularMovieReviewedByKUsers 5
+topKHelpfullUsers 10
+topKHelpfullUsers 100
+moviesCount
